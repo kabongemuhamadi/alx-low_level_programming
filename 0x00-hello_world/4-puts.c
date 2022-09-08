@@ -1,6 +1,7 @@
 #include <stdio.h>
-// this prints the output
+/* this prints the output*/
 int main(void)
-{ puts("\"programming is like building multilingual puzzle\n");
- return (0);
+{/*this uses puts*/
+puts("\"programming is like building multilingual puzzle\n");
+return (0);
 }
