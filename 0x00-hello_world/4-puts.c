@@ -1,7 +1,12 @@
 #include <stdio.h>
-/* this prints the output*/
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
-{/*this uses puts*/
-puts("\"programming is like building multilingual puzzle\n");
+{
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
